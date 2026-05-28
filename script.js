@@ -54,6 +54,5 @@ async function showTodos() {
     list.appendChild(li);
   });
 }
-
 showTodos();
 
